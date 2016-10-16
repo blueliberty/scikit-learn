@@ -2,7 +2,7 @@
 根据《scikit-learn Cookbook》一书
 
 > 作者：周振宇  
-> 邮件：blue_liberty@163.com
+> 邮箱：blue_liberty@163.com
 
 ## 目录
 + [1.Premodel Workflow](http://nbviewer.jupyter.org/github/blueliberty/scikit-learn/blob/master/1.Premodel%20Workflow.ipynb)
