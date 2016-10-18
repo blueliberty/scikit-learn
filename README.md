@@ -1,5 +1,5 @@
 # scikit-learn学习笔记
-根据《scikit-learn Cookbook》一书
+根据scikit-learn文档和《scikit-learn Cookbook》一书
 
 > 作者：周振宇  
 > 邮箱：blue_liberty@163.com
